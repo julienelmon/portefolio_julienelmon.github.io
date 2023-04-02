@@ -1,0 +1,30 @@
+.btn {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.btn:hover {
+  transform: scale(1.05);
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card-header:hover {
+  background-color: darkgrey;
+}
+
+.ml2 {
+  font-weight: 900;
+  font-size: 3.5em;
+}
+
+.ml2 .letter {
+  display: inline-block;
+  line-height: 1em;
+}
+
+/*# sourceMappingURL=style.css.map */
